@@ -20,7 +20,7 @@
 ## Preview
 
 <div align="center">
-    <a href="https://michaelcurrin.github.io/simplest-jekyll/">
+    <a href="https://rafalcode.github.io/simplest-jekyll2/">
         <img src="/sample.png" alt="Sample screenshot" title="Go to website" width="700" />
     </a>
 </div>
@@ -42,8 +42,7 @@ This is a template and live demo project. It shows how little you need to setup 
     - Use a single gem `github-pages` if you want to match all the gems on GH Pages (which can be heavy to install). 
     - Delete this file if you don't need to run your site locally.
 
-If you want a more full-fledged example of a multi-page site with posts, gems, layouts, etc. then checkout my [jekyll-blog-demo](https://github.com/MichaelCurrin/jekyll-blog-demo) repo. That can be used as a template and demo site too.
-
+Michael's more full-fledged example of a multi-page site with posts, gems, layouts, etc.: [jekyll-blog-demo](https://github.com/MichaelCurrin/jekyll-blog-demo) repo. That can be used as a template and demo site too.
 
 ## How to use this project
 
